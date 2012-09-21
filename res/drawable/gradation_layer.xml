@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+    <item >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" 
+            android:shape="rectangle"> 
+            <gradient android:startColor="#DD000000" android:endColor="#DD2ECCFA" />
+        </shape>
+    </item>
+</layer-list>
